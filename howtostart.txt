@@ -1,0 +1,8 @@
+1. activate virtual environment
+pipenv shell
+
+2. run on localhost
+python manage.py runserver
+
+3. create new app
+python manage.py startapp movies (my app's name)
