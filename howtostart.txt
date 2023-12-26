@@ -6,3 +6,5 @@ python manage.py runserver
 
 3. create new app
 python manage.py startapp movies (my app's name)
+
+4. admin id: sncy7715, 123
